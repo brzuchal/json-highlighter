@@ -46,6 +46,6 @@ The keys will be in **light blue**, strings in **green**, numbers in **white**, 
 
 ## License
 
-Michał Marcin Brzuchalski <michal.brzuchalski@gmail.com>
+Copyright (c) 2024 Michał Marcin Brzuchalski
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
